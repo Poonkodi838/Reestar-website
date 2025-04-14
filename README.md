@@ -11,7 +11,7 @@ A simple and clean **Reestar** website built using basic **HTML** and **CSS**. T
 
 ## 🛠️ How to Use
 
- Open [link] in your browser to view the website.
+ Open [https://poonkodi838.github.io/Reestar-website/] in your browser to view the website.
 
  Thank you for visiting my reestar website!
 
