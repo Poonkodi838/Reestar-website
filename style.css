@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    padding: 50px;
+    
+}
+.navbar-one{
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.navbar-two,.navbar-three,.navbar-four,.navbar-five{
+    display: inline-block;
+    border: solid 2px black;
+    text-align: center;
+    margin-left: 60px;
+    margin-top: 10px;
+    font-size: 10px;
+
+}
+
+.navbar-two img{
+    height: 300px;
+}
+
+.navbar-three img{
+    height: 300px;
+}
+.navbar-four img{
+    height: 300px;
+}
+.navbar-five img{
+    height: 300px;
+}
+
+.navbar-two button{
+    margin-top: 10px;
+    background-color: black;
+    color:white;
+    padding: 5px;
+
+    
+}
+.navbar-three button{
+    margin-top: 10px;
+    background-color: black;
+    color:white;
+    padding: 5px;
+}
+.navbar-four button{
+    margin-top: 10px;
+    background-color: black;
+    color:white;
+    padding: 5px;
+}
+.navbar-five button{
+    margin-top: 10px;
+    background-color: black;
+    color:white;
+    padding: 5px;
+}
+.navbar-six__table{
+    text-align: center;
+}
+    
+.navbar-six{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top:10px;
+}
+.navbar-six form{
+    text-align: center;
+    display: inline-block;
+}
+.navbar-six button{
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    margin-top: 5px;
+}
+.navbar-six h1{
+    padding-top: 10px;
+}
+    
+    
